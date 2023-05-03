@@ -5,3 +5,5 @@ how to do file handling in linux os?
 what is  linux os?
 what are the characteristics of linux os?
 how to do file handling in linux os?
+
+forPractice
